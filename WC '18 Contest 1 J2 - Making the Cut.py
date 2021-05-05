@@ -1,0 +1,1 @@
+print("Y" if input() in [input() for i in range(5)] else "N")
